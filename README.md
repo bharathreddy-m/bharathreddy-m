@@ -48,6 +48,6 @@ I am continuously expanding my knowledge in AI and Data Science, with a keen int
 - Attended a workshop on Machine Learning at Pantech Solutions, enhancing my practical understanding of ML concepts.
 
 ## 📫 Get in Touch
-Feel free to connect with me on LinkedIn: [Bharath Reddy](www.linkedin.com/in/bharath-reddy-2a753b1b8)
+Feel free to connect with me on LinkedIn: [Bharath Reddy](https://www.linkedin.com/in/bharath-reddy-2a753b1b8/)  
 
 Thank you for visiting my profile! 😊
