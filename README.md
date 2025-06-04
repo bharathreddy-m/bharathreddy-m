@@ -10,12 +10,12 @@ I hold professional certifications in Data Science and Data Analysis from IBM, w
   Rivier University
 
 ## 💼 Experience
-- **Data Analysis Intern**  
+- **Data Science Intern**  
   Innomatics Research Labs  
   Gained hands-on experience in data analysis, working with various tools and technologies.
 
-- **Data Analysis and Business Analytics Intern**  
-  The Sparks Foundation  
+- **Machine Learning Intern**  
+  InfoPillar Solutions  
   Developed analytical skills and business insights through practical projects.
 
 ## 📚 Specializations
