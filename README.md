@@ -8,7 +8,7 @@ I design and deploy intelligent systems that solve real-world problems at scale�
 
 Currently: **AI/ML Engineer at Frontier Communications (USA)**  
 Previously: **Jr. Data Scientist at Teradata (India)**  
-🎓 MS in Computer Science, Rivier University (USA)
+🎓 MS in Computer Science, Rivier University - Dec 2024 (USA)
 
 ---
 
