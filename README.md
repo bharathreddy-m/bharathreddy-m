@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bharath Reddy
 
-🚀 **AI/ML Engineer | 3+ YOE | GenAI • Computer Vision • NLP • MLOps**
+🚀 **AI/ML Engineer | LLM Systems · RAG Stability Research (arXiv) · MLOps | PyTorch · LangChain · Hugging Face | Open to Work**
 
 I design and deploy intelligent systems that solve real-world problems at scale—across telecom, smart surveillance, and document AI domains. My focus spans from building multimodal GenAI agents to deploying vision + voice-based access control systems.  
 
